@@ -51,13 +51,13 @@ body {
 	     display: block ; 
          display- width: 30 px;
          padding: 5px; 
-	     color: #ADD8E6;
+	     color: #9370DB;
 	     text-decoration: none;
 }
 
 .topic a:hover {
 	           color: #FFFFFF;
-	           background-color:#ADD8E6;
+	           background-color:#9370DB;
 	           text-decoration: none;
 }
 
