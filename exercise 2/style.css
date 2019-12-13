@@ -23,7 +23,7 @@ body {
        font-weight: bold;
        font-size: 21px;
        width: 50%;
-       color: black; 
+       color: #000000; 
 }
 
 .topic a {
@@ -35,7 +35,7 @@ body {
 }
 
 .topic a:hover {
-	           color: white;
+	           color: #FFFFFF;
 	           background-color:#ADD8E6;
 	           text-decoration: none;
 }
