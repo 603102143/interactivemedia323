@@ -16,14 +16,14 @@ body {
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
-  from {background-color: #FFE4C4;}
-  to {background-color: #FFEBCD;}
+  from {background-color: #FFFFFF;}
+  to {background-color: #FFE4C4;}
 }
 
 /* Standard syntax */
 @keyframes example {
-  from {background-color: #FFE4C4;}
-  to {background-color: #FFEBCD;}
+  from {background-color:#FFFFFF ;}
+  to {background-color: #FFE4C4;}
 }
 
 
