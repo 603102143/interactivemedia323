@@ -1,16 +1,16 @@
-h1 {
+.header {
       background-color: #F1F1F1;
       text-align: center;
       padding: 20px;
 }
-body {
+.content {
 	background: #fff;
 	color: black;
 	font-family: Helvetica, serif;
 	font-size: 14px;
 	background:url('images/17.jpg');
-	background-size: 100% 100%;
+	background-repeat: repeat-x;
 	line-height: 1.2;
-	text-align: justify;
+	text-align: center;
 
 }
