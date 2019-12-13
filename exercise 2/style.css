@@ -14,14 +14,12 @@ body {
        animation-duration: 4s;
 }
 
-
 @-webkit-keyframes example {
   0%   {background-color: #FFFFFF;}
   25%  {background-color: #FFE4C4;}
   50%  {background-color: #FAEBD7;}
   100% {background-color: #FFB6C1;}
 }
-
 
 @keyframes example {
   0%   {background-color: #FFFFFF;}
