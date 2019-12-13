@@ -7,23 +7,27 @@
 
 body {
 	text-align: center;
-	 background-color: red;
-       -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-       -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
-       animation-name: example;
-       animation-duration: 4s;
+  background-color: red;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  animation-name: example;
+  animation-duration: 4s;
 }
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
-  from {background-color: #FFFFFF;}
-  to {background-color: #FFE4C4;}
+  0%   {background-color: #FFFFFF;}
+  25%  {background-color: #FFE4C4;}
+  50%  {background-color: #FAEBD7;}
+  100% {background-color: #E9967A;}
 }
 
 /* Standard syntax */
 @keyframes example {
-  from {background-color:#FFFFFF ;}
-  to {background-color: #FFE4C4;}
+  0%   {background-color: #FFFFFF;}
+  25%  {background-color: #FFE4C4;}
+  50%  {background-color: #FAEBD7;}
+  100% {background-color: #E9967A;}
 }
 
 
