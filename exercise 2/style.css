@@ -7,6 +7,7 @@
 
 body {
 	  text-align: center;
+	  background:url(images/17.jpg);
       -webkit-animation-name: example; 
        -webkit-animation-duration: 4s; 
        animation-name: example;
