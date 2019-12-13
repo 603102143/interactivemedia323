@@ -1,14 +1,15 @@
 .header {
-      background-color: #F1F1F1;
       text-align: center;
       padding: 20px;
 }
+body {
+	background:url('images/17.jpg');
+}
+
 .content {
 	color: black;
 	font-family: Helvetica, serif;
 	font-size: 14px;
-	background:url('images/17.jpg');
 	line-height: 1.2;
 	text-align: center;
-
 }
