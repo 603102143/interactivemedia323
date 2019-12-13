@@ -42,7 +42,7 @@ body {
 
 .topic {
 	   list-style: none;
-	   position:relative;
+	   position:static;
 	   font-family: Helvetica;
        font-weight: bold;
        font-size: 25px;
