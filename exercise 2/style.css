@@ -9,9 +9,18 @@ body {
 }
 
 .content one {
-	color: black;
-	font-family: Helvetica, serif;
-	font-size: 20px;
-	line-height: 1.2;
-	text-align: center;
+	         color: black;
+	         font-family: Helvetica, serif;
+	         font-size: 20px;
+	         line-height: 1.2;
+	         text-align: center;
+}
+
+.topic {
+	   position:relative;
+	   font-family: Helvetica;
+       font-weight: bold;
+       font-size: 21px;
+       width: 50%;
+       color: #ADD8E6; 
 }
