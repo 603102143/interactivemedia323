@@ -17,10 +17,25 @@ body {
 }
 
 .topic {
+	   list-style: none;
 	   position:relative;
 	   font-family: Helvetica;
        font-weight: bold;
        font-size: 21px;
        width: 50%;
-       color: #ADD8E6; 
+       color: black; 
+}
+
+.topic a {
+	     display: block ; 
+         display- width: 30 px;
+         padding: 5px; 
+	     color: #ADD8E6;
+	     text-decoration: none;
+}
+
+.topic a:hover {
+	           color: white;
+	           background-color:#ADD8E6;
+	           text-decoration: none;
 }
