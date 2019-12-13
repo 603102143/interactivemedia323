@@ -39,3 +39,9 @@ body {
 	           background-color:#ADD8E6;
 	           text-decoration: none;
 }
+
+img { 
+	max-width: 90%;
+    padding-top: 20px;
+
+}
