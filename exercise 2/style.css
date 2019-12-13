@@ -3,7 +3,12 @@
        padding: 25px;
        width: 100px;
        height: 100px;
-       background-color: red;
+      
+}
+
+body {
+	text-align: center;
+	 background-color: red;
        -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
        -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
        animation-name: example;
@@ -21,13 +26,7 @@
   from {background-color: #FFE4C4;}
   to {background-color: #FFEBCD;}
 }
-}
 
-body {
-	background:url('images/17.jpg');
-
-	text-align: center;
-}
 
 .content one {
 	         color: black;
