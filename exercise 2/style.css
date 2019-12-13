@@ -4,6 +4,7 @@
 }
 body {
 	background:url('images/19.jpg');
+	background-repeat: repeat-x;
 	text-align: center;
 }
 
