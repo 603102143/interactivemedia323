@@ -1,0 +1,22 @@
+.topic {
+	   list-style: none;
+	   position:static;
+	   font-family: Helvetica;
+       font-weight: bold;
+       font-size: 25px;
+       width: 50%;
+       color: #000000; 
+}
+
+.topic a {
+	     display: block ; 
+         display- width: 20 px;
+         padding: 5px; 
+	     color: #9370DB;
+	     text-decoration: none;
+}
+
+.topic a:hover {
+	           color: #FFFFFF;
+	           background-color:#9370DB;
+	           text-decoration: none;
