@@ -10,7 +10,6 @@
 
 .topic a {
 	     display: block ; 
-
          padding: 5px; 
 	     color: #9370DB;
 	     text-decoration: none;
@@ -20,3 +19,4 @@
 	           color: #FFFFFF;
 	           background-color:#9370DB;
 	           text-decoration: none;
+}
