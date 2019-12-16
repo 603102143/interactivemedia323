@@ -8,13 +8,16 @@ body{
         position: fixed; 
         right: 20px; 
         top: 20px; 
-        color: gray; 
-        padding-left: 10px; 
-        padding-right: 10px; 
- } 
+
  } 
 
- a { 
+
+ a {         
+ 	color: gray; 
+    padding-left: 10px; 
+    padding-right: 10px;
+}
+
 
 
  .circle { 
