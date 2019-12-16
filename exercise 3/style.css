@@ -36,11 +36,11 @@ body {
 }
 
  #search { 
-         border-radius: 25px;
+         border-radius: 20px;
          border: 2px solid white;
          padding: 20px;
-         width: 570px;
-         height: 35px;
+         width: 561px;
+         height: 44px;
          margin: 42px auto; 
 }
 
