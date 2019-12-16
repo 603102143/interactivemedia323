@@ -6,15 +6,16 @@ body{
 
 #part 1 { 
         position: fixed; 
-        left: 20px; 
+        right: 20px; 
         top: 20px; 
+        color: gray; 
+        padding-left: 10px; 
+        padding-right: 10px; 
+ } 
  } 
 
  a { 
-    color: gray; 
-    padding-left: 10px; 
-    padding-right: 10px; 
- } 
+
 
  .circle { 
          width: 25px; 
