@@ -1,24 +1,20 @@
-body{
-	margin: 0; 
-	background-color: #FDF5E6
-
-}
-
-#part 1 { 
-        position: fixed;
-        right: 20px; 
-        top: 20px; 
-
+body { 
+	 background-color: #FDF5E6
+     margin: 0; 
+     padding: 0; 
  } 
 
-
- a {         
- 	color: black; 
-    padding-left: 10px; 
-    padding-right: 10px;
-}
-
-
+ #part 1 { 
+         position: fixed; 
+         right: 20px; 
+         top: 20px; 
+ } 
+ 
+ a { 
+   color: black; 
+   padding-left: 10px; 
+   padding-right: 10px; 
+ } 
 
  .circle { 
          width: 25px; 
@@ -28,16 +24,21 @@ body{
          display: inline-block; 
  } 
 
+ #main { 
+       width: 100%; 
+       text-align: center; 
+       margin-top: 200px; 
+ } 
+
 .logo{
 	  color:#FFE4C4;
 }
 
-
-#search { 
-              width: 586px; 
-              height: 40px; 
-              border: 1px solid blue; 
-              margin: 42px auto; 
+ #search { 
+         width: 586px; 
+         height: 40px; 
+         border: 1px solid blue; 
+         margin: 42px auto; 
  } 
 
  .button { 
@@ -58,8 +59,4 @@ body{
           height: 40px; 
           border-top: 1px solid #e4e4e4; 
  } 
-
-
-
-
 
