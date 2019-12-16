@@ -36,11 +36,15 @@ body {
 }
 
  #search { 
-         width: 586px; 
-         height: 40px; 
-         border: 1px solid blue; 
+         border-radius: 25px;
+         border: 2px solid white;
+         padding: 20px;
+         width: 590px;
+         height: 40px;
          margin: 42px auto; 
- } 
+}
+
+
 
  .button { 
          display: inline; 
