@@ -11,7 +11,7 @@ body {
          font-size: 18px;
  } 
 
- a { 
+ li a { 
    color: black; 
    padding-left: 10px; 
    padding-right: 10px; 
@@ -19,7 +19,7 @@ body {
    text-decoration: none;
  } 
 
- a:hover {
+ li a:hover {
   background-color: white;
   color: #87CEFA;
 }
