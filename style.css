@@ -1,5 +1,5 @@
 body {
-	background:linear-gradient(to bottom, #ffffff 0%, #ffcc99 100%);
+	background:linear-gradient(to bottom, #ffffff 0%, #ffcc99 100%)
 }
 
 
@@ -37,8 +37,5 @@ h1.header {
 	           text-decoration: none;
 }
 
-.exercises {
-	position:absolute;
 
-}
 
