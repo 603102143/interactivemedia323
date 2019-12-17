@@ -55,6 +55,7 @@ h1.header {
 	           left:50%;
 	           transform-origin: 0 100%;
                transform:rotate(45deg);
+               background: linear-gradient(to top right, #ff99ff 0%, #ffffff 100%)
 }
 
 .1:nth-child(2){
@@ -62,7 +63,7 @@ h1.header {
 	           left:50%;
 	           transform-origin: 0 100%;
                transform:rotate(90deg);
-               background: linear-gradient(45deg,rgba,rgba)
+               background: linear-gradient(to right, #ff99ff 0%, #ffffff 100%)
 }
 
 .1:nth-child(3){
@@ -70,6 +71,7 @@ h1.header {
 	           left:50%;
 	           transform-origin: 0 100%;
                transform:rotate(135deg);
+               background: linear-gradient(to bottom right, #ff99ff 0%, #ffffff 100%)
 }
 
 .1:nth-child(4){
@@ -77,6 +79,7 @@ h1.header {
 	           left:50%;
 	           transform-origin: 0 100%;
                transform:rotate(180deg);
+               background: linear-gradient(to bottom, #ff99ff 0%, #ffffff 100%)
 }
 
 .1:nth-child(5){
@@ -84,6 +87,7 @@ h1.header {
 	           left:50%;
 	           transform-origin: 0 100%;
                transform:rotate(225deg);
+               background: linear-gradient(to bottom left, #ff99ff 0%, #ffffff 100%)
 
 }
 
@@ -92,6 +96,7 @@ h1.header {
 	           left:50%;
 	           transform-origin: 0 100%;
                transform:rotate(270deg);
+               background: linear-gradient(to left, #ff99ff 0%, #ffffff 100%)
 }
 
 .1:nth-child(7){
@@ -99,4 +104,5 @@ h1.header {
 	           left:50%;
 	           transform-origin: 0 100%;
                transform:rotate(315deg);
+               background: linear-gradient(to top left, #ff99ff 0%, #ffffff 100%)
 }
