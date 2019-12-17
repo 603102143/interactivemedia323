@@ -5,8 +5,8 @@ h1 {
 
 h1.header {
        text-align: center;
-       outline-size: 10px
        outline-style:double;
+       outline-width:30%;
 }
 
 .topic {
