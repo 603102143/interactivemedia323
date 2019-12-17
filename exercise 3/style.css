@@ -45,7 +45,7 @@ body {
 }
 
 
- .sign a { 
+ .sign { 
  	     width: 25px; 
          height: 25px; 
          background: white; 
@@ -54,3 +54,5 @@ body {
          padding: 10px 18px;
 
  } 
+
+
