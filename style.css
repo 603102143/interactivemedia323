@@ -1,3 +1,9 @@
+.header {
+       text-align: center;
+       padding: 25px;
+ 
+}
+
 .topic {
 	   list-style: none;
 	   position:static;
