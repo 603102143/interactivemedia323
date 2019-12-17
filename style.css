@@ -36,3 +36,67 @@ h1.header {
 	           background-color:#9370DB;
 	           text-decoration: none;
 }
+
+.flower {
+	width:300px;
+	height:300px;
+	position: relative;
+}
+
+  .1 {
+	width:50%;
+	height:50%;
+	border-top-left-radius:100%;
+	border-bottom-right-radius:100%;
+}
+
+.1:nth-child(1){
+	           position:absolute;
+	           left:50%;
+	           transform-origin: 0 100%;
+               transform:rotate(45deg);
+}
+
+.1:nth-child(2){
+	           position:absolute;
+	           left:50%;
+	           transform-origin: 0 100%;
+               transform:rotate(90deg);
+               background: linear-gradient(45deg,rgba,rgba)
+}
+
+.1:nth-child(3){
+	           position:absolute;
+	           left:50%;
+	           transform-origin: 0 100%;
+               transform:rotate(135deg);
+}
+
+.1:nth-child(4){
+	           position:absolute;
+	           left:50%;
+	           transform-origin: 0 100%;
+               transform:rotate(180deg);
+}
+
+.1:nth-child(5){
+	           position:absolute;
+	           left:50%;
+	           transform-origin: 0 100%;
+               transform:rotate(225deg);
+
+}
+
+.1:nth-child(6){
+	           position:absolute;
+	           left:50%;
+	           transform-origin: 0 100%;
+               transform:rotate(270deg);
+}
+
+.1:nth-child(7){
+	           position:absolute;
+	           left:50%;
+	           transform-origin: 0 100%;
+               transform:rotate(315deg);
+}
