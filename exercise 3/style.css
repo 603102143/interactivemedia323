@@ -4,6 +4,12 @@ body {
  } 
 
  
+ .part 1 { 
+         position: absolute;
+         right: 2px; 
+         top: 20px; 
+         font-size: 18px;
+ } 
 
  a { 
    color: black; 
