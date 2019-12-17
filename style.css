@@ -6,7 +6,7 @@ h1 {
 h1.header {
        text-align: center;
        outline-style:double;
-       outline-width:30%;
+       outline-width:30;
 }
 
 .topic {
@@ -31,20 +31,3 @@ h1.header {
 	           background-color:#9370DB;
 	           text-decoration: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
