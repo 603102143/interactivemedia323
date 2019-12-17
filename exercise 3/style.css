@@ -15,10 +15,7 @@ body {
    color: black; 
    padding-left: 10px; 
    padding-right: 10px; 
-   display: block;
-   text-decoration: none;
  } 
-
 
  .circle { 
          width: 25px; 
@@ -48,8 +45,8 @@ body {
 }
 
 
- .sign { 
- 	      width: 25px; 
+ .sign a { 
+ 	     width: 25px; 
          height: 25px; 
          background: white; 
          border-radius: 50%; 
