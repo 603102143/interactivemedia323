@@ -5,7 +5,7 @@ h1 {
 
 h1.header {
        text-align: center;
-       outline-offset: 25px
+       outline-width: medium
        outline-style:double;
 }
 
