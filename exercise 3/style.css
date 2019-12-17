@@ -15,7 +15,14 @@ body {
    color: black; 
    padding-left: 10px; 
    padding-right: 10px; 
+   display: block;
+   text-decoration: none;
  } 
+
+ a:hover {
+  background-color: white;
+  color: #87CEFA;
+}
 
  .circle { 
          width: 25px; 
