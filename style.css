@@ -1,7 +1,8 @@
 .header {
        text-align: center;
        padding: 25px;
- 
+       outline-style:double;
+       outline-color:#663399;
 }
 
 .topic {
